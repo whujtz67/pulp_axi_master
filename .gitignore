@@ -1,0 +1,15 @@
+# -------- axi_xbar -------- #
+axi_xbar/doc
+axi_xbar/vivado_prj_model
+axi_xbar/*mti*
+axi_xbar/*mpf*
+axi_xbar/transcript
+axi_xbar/*wlf*
+axi_xbar/tb/*.bak*
+axi_xbar/tb/*.wave.do*
+
+# -------- pulp_platform -------- #
+pulp-platform/axi-master/doc
+pulp-platform/axi-master/test/*.wave.do*
+pulp-platform/axi-master/test/*.do*
+pulp-platform/axi-master/*.core*
